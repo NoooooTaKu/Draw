@@ -1,4 +1,4 @@
-package com.example.prince.myapplication;
+package com.example.prince.Draw;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

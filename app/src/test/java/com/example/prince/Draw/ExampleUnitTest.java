@@ -1,4 +1,4 @@
-package com.example.prince.myapplication;
+package com.example.prince.Draw;
 
 import org.junit.Test;
 

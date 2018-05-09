@@ -1,23 +1,17 @@
-package com.example.prince.myapplication;
+package com.example.prince.Draw;
 
-import android.graphics.Path;
 import android.graphics.PointF;
-import android.graphics.RectF;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MotionEvent;
-import android.widget.Button;
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-import android.os.Bundle;
 import android.view.View;
 
 import java.util.ArrayList;
-
-import static android.support.v7.appcompat.R.styleable.View;
 
 public class MainActivity extends AppCompatActivity {
 
